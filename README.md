@@ -13,10 +13,11 @@ The Airbnb activity includes three datasets:
 
 The attached notebook gathers, cleanses, models, and visualizes the dataset in order to evaluate the following questions:
 
-    1. What types of places are the most expensive?  
-    2. Predict overall listing price based on other factors about the property?
-    3. What are the most requested neighborhoods in Seattle?
-    4. What is the busiest times of the year for Seattle hosts?
+    1. What are the factors that impact listing prices?
+    2. How does the price differ among neighborhoods in Seattle?
+    3. What is the most popular area?
+    4. What price should I expect to pay when renting in Seattle?
+    5. What are the cheapest months to travel to Seattle?
 
 The results of the analysis are summarised in a medium blog post available here: 
 
