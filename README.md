@@ -19,7 +19,7 @@ The attached notebook gathers, cleanses, models, and visualizes the dataset in o
     4. What price should I expect to pay when renting in Seattle?
     5. What are the cheapest months to travel to Seattle?
 
-The results of the analysis are summarised in a medium blog post available here: 
+The results of the analysis are summarised in a medium blog post available here: [medium](https://medium.com/@aideenfreeman2/airbnb-in-seattle-what-you-should-know-before-booking-a6002cd6a911)
 
 The repository includes: 
     
